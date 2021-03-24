@@ -8,6 +8,7 @@
 	원격: 네트워크 서버에 저장
 ## BRANCH
 	코드의 기능 추가 혹은 수정 시 여러 버전을 나누어 기록 가능함.
+	협업에도 용이
 
 ### (git practice and reality...)
 	git clone 후 
