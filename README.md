@@ -9,8 +9,12 @@
 	sparse-checkout
 ### 커밋 작업
    	commit: 파일 추가/ 변경 내용을 저장소에 저장
+	branch: 브랜치 생성, 삭제
+	merge: 개발 내역 병합
+	tag: 태그!
 ### 협업
-	push: 파일 추가/ 변경 내용을 저장소에 업로드
+	push: 파일 추가/ 레퍼런스 업데이트
+	pull: 다른 저장소나 브랜치에서 가져오거나 병합
 
 ## 로컬 저장소/ 원격 저장소
   * 로컬: 컴퓨터에 직접 저장
@@ -19,7 +23,7 @@
   * 코드의 기능 추가 혹은 수정 시 여러 버전을 나누어 기록 가능함.
   * 협업에도 용이
 
-### (git practice and reality...)
+## (git practice and reality...)
 	* Mac OS -> terminal 사용
 	
 	  git clone 후 
