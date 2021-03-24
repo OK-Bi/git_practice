@@ -12,6 +12,7 @@
 
 ### (git practice and reality...)
 	* Mac OS -> terminal 사용
+	
 	  git clone 후 
 		Username for 'https://github.com': OK-BI
 		Password for 'https://OK-BI@github.com': 
