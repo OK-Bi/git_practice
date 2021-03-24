@@ -11,7 +11,8 @@
 	협업에도 용이
 
 ### (git practice and reality...)
-	git clone 후 
+	* Mac OS -> terminal 사용
+	  git clone 후 
 		Username for 'https://github.com': OK-BI
 		Password for 'https://OK-BI@github.com': 
 		remote: Repository not found.
