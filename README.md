@@ -15,4 +15,4 @@
 		Password for 'https://OK-BI@github.com': 
 		remote: Repository not found.
 		fatal: repository 'https://github.com/OK-Bi/OK-Bi-git/' not found
-	  문제 파악 중...과제는 gitHub에서 직저 branch 생성함	
+	  문제 파악 중...과제는 gitHub에서 직접 branch 생성 및 md 수정함	
